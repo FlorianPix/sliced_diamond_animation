@@ -1,8 +1,8 @@
-# sliced_sphere_animation
+# sliced_diamond_animation
 
-![Animation](https://github.com/FlorianPix/sliced_sphere_animation/blob/master/sphere/output/anim.gif)
+![Animation](https://github.com/FlorianPix/sliced_diamond_animation/blob/master/diamond/output/anim.gif)
 
-This is an animation of a sliced sphere build with Processing.
+This is an animation of a sliced diamond build with Processing.
 
 If you want to tweak the design you can set record to false and play around with it (because it then loops endlessly and doesnt save the frames).
 
